@@ -61,12 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" alt="Prisma ORM" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="DOCKER" alt="Docker" height="50"/>
 </p>
 
 ### 🧰 Tools
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" title="DOCKER" alt="Docker" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
